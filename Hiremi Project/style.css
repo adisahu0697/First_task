@@ -1,0 +1,181 @@
+
+/* jumbotron */
+
+.jumbotron {
+    margin-top: 0; 
+    background-image: url(images/background.png);
+    height: 93.2vh;
+    width: auto;
+    background-repeat: none;
+}
+.navbar {
+    background-color: transparent !important;
+ 
+    align-items: start;
+}
+.navbar-brand{
+    border-radius: 10px; 
+       
+}
+.nav-logo{
+    height: 30px;
+    width: 120px;
+}
+
+
+.nav-link{
+    color: white;
+    font-weight: 500;
+}
+.navbar-toggler{
+    color: black;
+}
+
+
+.container{
+    
+    margin-top: 5rem;
+    width: auto;
+}
+.line1,.line2{
+    font-size: 3rem;
+
+}
+.txt{
+    font-size: 1.3rem;
+    color: white;
+    font-weight: 400;
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn1{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+
+}
+.btn2{
+    background-color: transparent;
+    border: 2px solid red;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+
+/* box aream */
+
+.box{
+    border-radius: 10px;
+    background-color: rgb(235, 231, 231);
+}
+
+.img{
+    height: 250px;
+    width: 250px;
+}
+.imgIcon{
+    height: 30px;
+    width: 55px;
+}
+.assisting{
+    color: black;
+    font-weight: 700;
+}
+
+span{
+    color: red;
+}
+.arrow a{
+    color: red;
+    font-weight: 500;
+}
+
+
+
+.ring{
+    height: 350px;
+    width: 400px;
+}
+.secline p{
+    font-weight: 700;
+}
+.fourthline button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+}
+
+
+
+.container3{
+    background-color: red;
+    position: relative;
+
+}
+
+.mobile{
+    /* position: absolute;
+    bottom: 0; */
+    height: 400px;
+
+}
+
+.line{
+    font-weight: 700;
+
+}
+.container3 button{
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    font-weight: 500;
+
+}
+
+
+.background{
+    background-image: url(images/Vector.png);
+    margin-top: 100px;
+}
+.girls{
+    width: 300px;
+    height: 440px;
+}
+
+
+
+.container5{
+    background-color: red;
+    margin-top: 100px;
+}
+.txt8000{
+    color: black;
+    font-weight: 650;
+    font-size: 3rem;
+}
+
+.container6{
+    margin-top: 400px;
+}
+
+
+
+.hd{
+    color: red;
+    font-weight: 600;
+    
+}
+.icons i{
+    font-size: 20px;
+    margin: 8px;
+
+}
